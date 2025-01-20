@@ -1,0 +1,17 @@
+digraph {
+	A [label="Input Data"]
+	B [label=Preprocessing]
+	C [label="Feature Selection"]
+	D [label="Random Forest Regressor"]
+	E [label="XGBoost Regressor"]
+	F [label="Ridge Regression"]
+	G [label="Output Predictions"]
+	A -> B
+	B -> C
+	C -> D
+	C -> E
+	C -> F
+	D -> G
+	E -> G
+	F -> G
+}
