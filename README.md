@@ -1,23 +1,23 @@
 
 # Comparative Analysis of Regression Models for Commodity Price Prediction
 
-This project provides a comprehensive comparison of various regression models, including Random Forest Regressor, Ridge Regression, and XGBoost, for predicting commodity prices in Bangladesh. It includes data preprocessing, feature selection, model implementation, and evaluation using metrics like RMSE, MAE, and R². The repository contains all necessary code, datasets, and documentation for replicating the study and further exploration.
+This project provides a comprehensive comparison of various regression models, including Random Forest Regressor, Ridge Regression, and XGBoost, for predicting commodity prices. It includes data preprocessing, feature selection, model implementation, and evaluation using metrics like RMSE, MAE, and R². The repository contains all necessary code, datasets, and documentation for replicating the study and further exploration.
 ## Project Overview
 
-The **Comparative Analysis of Regression Models for Commodity Price Prediction in Bangladesh: A Case Study** aims to explore and evaluate different regression models for their effectiveness in predicting commodity prices. The study focuses on the economic significance of accurate price predictions and addresses the limitations of traditional methods by leveraging machine learning techniques.
+The **Comparative Analysis of Regression Models for Commodity Price Prediction** aims to explore and evaluate different regression models for their effectiveness in predicting commodity prices. The study focuses on the economic significance of accurate price predictions and addresses the limitations of traditional methods by leveraging machine learning techniques.
 
 **Key components:**
 
-    - Data Collection and Preprocessing: The project uses real-world commodity price data from Bangladesh, which is cleaned and prepared for analysis.
+    - Data Collection and Preprocessing: The project uses real-world commodity price data, which is cleaned and prepared for analysis.
     - Feature Selection: Relevant features are selected using statistical methods and domain knowledge to enhance model performance.
     - Model Implementation: Various regression models, including *Random Forest Regressor, Ridge Regression,* and *XGBoost,* are implemented and compared.
     - Performance Metrics: Models are evaluated using *Root Mean Square Error (RMSE)*, *Mean Absolute Error (MAE)*, and *R-squared (R²)* to assess their accuracy and reliability.
-    - Results Analysis: The study provides a detailed analysis of model performance, highlighting the most suitable regression model for commodity price prediction in the context of Bangladesh.
+    - Results Analysis: The study provides a detailed analysis of model performance, highlighting the most suitable regression model for commodity price prediction.
 
 This project aims to offer valuable insights for stakeholders like farmers, policymakers, and market analysts, enhancing their decision-making capabilities through improved price prediction accuracy.
 ## Objectives
 
-The primary aim of this project is to conduct a comprehensive comparison of different regression models to determine their effectiveness in predicting commodity prices in Bangladesh. The objectives are outlined as follows:
+The primary aim of this project is to conduct a comprehensive comparison of different regression models to determine their effectiveness in predicting commodity prices. The objectives are outlined as follows:
 
 **Main Objective:**
 
@@ -27,7 +27,7 @@ The primary aim of this project is to conduct a comprehensive comparison of diff
 
     - To implement and train multiple regression models, including Random Forest Regression, Ridge Regression, and XGBoost.
     - To assess the accuracy of these models using performance metrics such as RMSE, MAE, and R².
-    - To identify the most suitable regression model for accurate commodity price prediction in the context of Bangladesh.
+    - To identify the most suitable regression model for accurate commodity price prediction.
     - To provide insights into the strengths and weaknesses of each model in handling the complexity of commodity price data.
     - To offer practical recommendations for stakeholders based on the study’s findings to aid in economic planning and policy-making.
 ## Dataset
@@ -71,7 +71,7 @@ This study demonstrates the effectiveness of ensemble methods like **XGBoost** i
 To run this project locally, Clone the repository:
 
 ```bash
-   git clone https://github.com/myself-aas/Comparative-Analysis-of-Regression-Models-for-Commodity-Price-Prediction-in-Bangladesh-A-Case-Study.git 
+   git clone https://github.com/myself-aas/Comparative-Analysis-of-Regression-Models-for-Commodity-Price-Prediction.git 
    ```
     
 ## Future Work
