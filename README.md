@@ -1,5 +1,5 @@
 
-# Comparative Analysis of Regression Models for Commodity Price Prediction in Bangladesh: A Case Study
+# Comparative Analysis of Regression Models for Commodity Price Prediction
 
 This project provides a comprehensive comparison of various regression models, including Random Forest Regressor, Ridge Regression, and XGBoost, for predicting commodity prices in Bangladesh. It includes data preprocessing, feature selection, model implementation, and evaluation using metrics like RMSE, MAE, and R². The repository contains all necessary code, datasets, and documentation for replicating the study and further exploration.
 ## Project Overview
